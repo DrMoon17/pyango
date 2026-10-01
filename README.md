@@ -1,7 +1,7 @@
 # Pyango
 
 **Pocket flashcards for learning languages.**
-Open-source hardware and software by **MoonDevices**.
+
 
 ![Pyango v0.1](docs/images/pyango-v0.1.jpg)
 
