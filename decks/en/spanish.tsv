@@ -1,0 +1,75 @@
+# name: Spanish
+# order: 2
+# script: latin
+# reading = plural, pronunciation = guide for English speakers (Latin American Spanish)
+# license: CC BY-SA 4.0
+category	word	reading	pronunciation	meaning
+numbers	uno		OO-noh	one
+numbers	dos		dohs	two
+numbers	tres		trehs	three
+numbers	cuatro		KWAH-troh	four
+numbers	cinco		SEEN-koh	five
+numbers	seis		says	six
+numbers	siete		SYEH-teh	seven
+numbers	ocho		OH-choh	eight
+numbers	nueve		NWEH-veh	nine
+numbers	diez		dyehs	ten
+numbers	once		OHN-seh	eleven
+numbers	doce		DOH-seh	twelve
+numbers	veinte		BAYN-teh	twenty
+numbers	cien		syehn	one hundred
+numbers	mil		meel	one thousand
+verbs	ser		sehr	to be (permanent)
+verbs	estar		ehs-TAR	to be (state, place)
+verbs	tener		teh-NEHR	to have
+verbs	ir		eer	to go
+verbs	venir		beh-NEER	to come
+verbs	comer		koh-MEHR	to eat
+verbs	beber		beh-BEHR	to drink
+verbs	hablar		ah-BLAR	to speak
+verbs	leer		leh-EHR	to read
+verbs	escribir		ehs-kree-BEER	to write
+verbs	dormir		dor-MEER	to sleep
+verbs	aprender		ah-prehn-DEHR	to learn
+verbs	querer		keh-REHR	to want
+verbs	hacer		ah-SEHR	to do, to make
+verbs	ver		behr	to see
+verbs	trabajar		trah-bah-HAR	to work
+positions	arriba		ah-REE-bah	up, above
+positions	abajo		ah-BAH-hoh	down, below
+positions	dentro		DEHN-troh	inside
+positions	fuera		FWEH-rah	outside
+positions	delante de		deh-LAHN-teh deh	in front of
+positions	detrás de		deh-TRAHS deh	behind
+positions	al lado de		ahl LAH-doh deh	next to
+positions	entre		EHN-treh	between
+positions	sobre		SOH-breh	on, on top of
+positions	debajo de		deh-BAH-hoh deh	under
+positions	cerca		SEHR-kah	near
+positions	lejos		LEH-hohs	far
+positions	a la derecha		ah lah deh-REH-chah	to the right
+positions	a la izquierda		ah lah ees-KYEHR-dah	to the left
+positions	todo recto		TOH-doh REHK-toh	straight ahead
+everyday	hola		OH-lah	hello
+everyday	adiós		ah-DYOHS	goodbye
+everyday	gracias		GRAH-syahs	thank you
+everyday	por favor		por fah-BOR	please
+everyday	sí		see	yes
+everyday	no		noh	no
+everyday	perdón		pehr-DOHN	sorry, excuse me
+everyday	buenos días		BWEH-nohs DEE-ahs	good morning
+everyday	buenas noches		BWEH-nahs NOH-chehs	good night
+everyday	la casa	las casas	KAH-sah	the house
+everyday	el agua	las aguas	AH-gwah	the water
+everyday	el pan	los panes	pahn	the bread
+everyday	el café	los cafés	kah-FEH	the coffee
+everyday	el gato	los gatos	GAH-toh	the cat
+everyday	el perro	los perros	PEH-rroh	the dog
+everyday	el libro	los libros	LEE-broh	the book
+everyday	la escuela	las escuelas	ehs-KWEH-lah	the school
+everyday	el amigo	los amigos	ah-MEE-goh	the friend
+everyday	la madre	las madres	MAH-dreh	the mother
+everyday	el padre	los padres	PAH-dreh	the father
+everyday	hoy		oy	today
+everyday	mañana		mah-NYAH-nah	tomorrow, morning
+everyday	ayer		ah-YEHR	yesterday

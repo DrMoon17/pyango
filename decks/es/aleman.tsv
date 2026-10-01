@@ -1,0 +1,81 @@
+# name: Alemán
+# order: 2
+# script: latin
+# reading = plural, pronunciation = guía para hispanohablantes
+# license: CC BY-SA 4.0
+category	word	reading	pronunciation	meaning
+numbers	eins		ains	uno
+numbers	zwei		tsvai	dos
+numbers	drei		drai	tres
+numbers	vier		fía	cuatro
+numbers	fünf		fünf	cinco
+numbers	sechs		seks	seis
+numbers	sieben		síben	siete
+numbers	acht		ajt	ocho
+numbers	neun		noin	nueve
+numbers	zehn		tsen	diez
+numbers	elf		elf	once
+numbers	zwölf		tsvölf	doce
+numbers	zwanzig		tsvántsij	veinte
+numbers	hundert		júndert	cien
+numbers	tausend		táusent	mil
+verbs	sein		sain	ser, estar
+verbs	haben		jáben	tener
+verbs	gehen		guéen	ir (a pie)
+verbs	kommen		kómen	venir
+verbs	essen		ésen	comer
+verbs	trinken		trínken	beber
+verbs	sprechen		shpréjen	hablar
+verbs	lesen		lésen	leer
+verbs	schreiben		shráiben	escribir
+verbs	schlafen		shláfen	dormir
+verbs	lernen		lérnen	aprender
+verbs	machen		májen	hacer
+verbs	sehen		séen	ver
+verbs	wohnen		vónen	vivir (residir)
+verbs	arbeiten		árbaiten	trabajar
+positions	auf		auf	sobre, encima de
+positions	unter		únta	debajo de
+positions	in		in	en, dentro de
+positions	vor		for	delante de
+positions	hinter		jínta	detrás de
+positions	neben		nében	al lado de
+positions	zwischen		tsvíshen	entre
+positions	über		über	encima de, sobre
+positions	links		links	a la izquierda
+positions	rechts		rejts	a la derecha
+positions	geradeaus		guerade-áus	todo recto
+positions	hier		jía	aquí
+positions	dort		dort	allí
+everyday	Hallo		jálo	hola
+everyday	Guten Morgen		gúten mórguen	buenos días
+everyday	Guten Tag		gúten tak	buen día
+everyday	Guten Abend		gúten ábent	buenas noches (saludo)
+everyday	Gute Nacht		gúte najt	buenas noches (al dormir)
+everyday	Tschüss		chüs	adiós (informal)
+everyday	Auf Wiedersehen		auf vída-seen	adiós (formal)
+everyday	Danke		dánke	gracias
+everyday	Bitte		bíte	por favor, de nada
+everyday	Ja		ia	sí
+everyday	Nein		nain	no
+everyday	Entschuldigung		ent-shúl-di-gung	disculpe, perdón
+everyday	die Mutter	die Mütter	múta	la madre
+everyday	der Vater	die Väter	fáta	el padre
+everyday	das Kind	die Kinder	kint	el niño, el hijo
+everyday	der Freund	die Freunde	froint	el amigo
+everyday	das Wasser		vása	el agua
+everyday	das Brot	die Brote	brot	el pan
+everyday	der Kaffee		káfe	el café
+everyday	die Milch		milj (j suave)	la leche
+everyday	das Haus	die Häuser	haus	la casa
+everyday	die Katze	die Katzen	kátse	el gato
+everyday	der Hund	die Hunde	junt	el perro
+everyday	das Buch	die Bücher	buj	el libro
+everyday	die Schule	die Schulen	shúle	la escuela
+everyday	heute		jóite	hoy
+everyday	morgen		mórguen	mañana
+everyday	rot		rot	rojo
+everyday	blau		blau	azul
+everyday	grün		grün	verde
+everyday	schwarz		shvarts	negro
+everyday	weiß		vais	blanco

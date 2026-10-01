@@ -1,0 +1,11 @@
+# Compilación
+build/
+*.bin
+*.elf
+# Python
+__pycache__/
+*.pyc
+# Sistema
+.DS_Store
+Thumbs.db
+.vscode/

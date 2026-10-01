@@ -1,0 +1,74 @@
+# name: Inglés
+# order: 1
+# script: latin
+# reading = plural o pasado, pronunciation = guía para hispanohablantes
+# license: CC BY-SA 4.0
+category	word	reading	pronunciation	meaning
+numbers	one		uan	uno
+numbers	two		tu	dos
+numbers	three		zri (th)	tres
+numbers	four		for	cuatro
+numbers	five		faiv	cinco
+numbers	six		siks	seis
+numbers	seven		séven	siete
+numbers	eight		eit	ocho
+numbers	nine		nain	nueve
+numbers	ten		ten	diez
+numbers	eleven		iléven	once
+numbers	twelve		tuelv	doce
+numbers	twenty		tuénti	veinte
+numbers	hundred		jándred	cien
+numbers	thousand		záusand (th)	mil
+verbs	to be	was/were, been	tu bi	ser, estar
+verbs	to have	had, had	tu jav	tener
+verbs	to go	went, gone	tu góu	ir
+verbs	to come	came, come	tu kam	venir
+verbs	to eat	ate, eaten	tu it	comer
+verbs	to drink	drank, drunk	tu drink	beber
+verbs	to speak	spoke, spoken	tu spik	hablar
+verbs	to read	read, read	tu rid	leer
+verbs	to write	wrote, written	tu rait	escribir
+verbs	to sleep	slept, slept	tu slip	dormir
+verbs	to learn	learned, learned	tu lern	aprender
+verbs	to want	wanted, wanted	tu uant	querer
+verbs	to do	did, done	tu du	hacer
+verbs	to see	saw, seen	tu si	ver
+verbs	to work	worked, worked	tu uork	trabajar
+positions	up		ap	arriba
+positions	down		dáun	abajo
+positions	inside		insáid	dentro
+positions	outside		autsáid	afuera
+positions	in front of		in frant ov	delante de
+positions	behind		bijáind	detrás de
+positions	next to		nekst tu	al lado de
+positions	between		bituín	entre
+positions	on		on	sobre, encima de
+positions	under		ánder	debajo de
+positions	near		nir	cerca
+positions	far		far	lejos
+positions	right		rait	derecha
+positions	left		left	izquierda
+positions	straight ahead		stréit ajéd	todo recto
+everyday	hello		jelóu	hola
+everyday	goodbye		gudbái	adiós
+everyday	thank you		zenk iu (th)	gracias
+everyday	please		pliis	por favor
+everyday	yes		ies	sí
+everyday	no		nóu	no
+everyday	sorry		sóri	perdón, lo siento
+everyday	good morning		gud mórning	buenos días
+everyday	good night		gud náit	buenas noches
+everyday	house	houses	jáus	casa
+everyday	water		uóter	agua
+everyday	bread		bred	pan
+everyday	coffee		cófi	café
+everyday	cat	cats	kat	gato
+everyday	dog	dogs	dog	perro
+everyday	book	books	buk	libro
+everyday	school	schools	skul	escuela
+everyday	friend	friends	frend	amigo
+everyday	mother	mothers	máder	madre
+everyday	father	fathers	fáder	padre
+everyday	today		tudéi	hoy
+everyday	tomorrow		tumórou	mañana
+everyday	yesterday		iésterdei	ayer

@@ -1,0 +1,92 @@
+# name: Japonés
+# order: 3
+# script: cjk
+# reading = kana, pronunciation = romaji
+# license: CC BY-SA 4.0
+category	word	reading	pronunciation	meaning
+numbers	一	いち・ひと	ichi / hito	uno
+numbers	二	に・ふた	ni / futa	dos
+numbers	三	さん・み	san / mi	tres
+numbers	四	よん・し	yon / shi	cuatro
+numbers	五	ご・いつ	go / itsu	cinco
+numbers	六	ろく・む	roku / mu	seis
+numbers	七	なな・しち	nana / shichi	siete
+numbers	八	はち・や	hachi / ya	ocho
+numbers	九	きゅう・く	kyuu / ku	nueve
+numbers	十	じゅう・とお	juu / too	diez
+numbers	百	ひゃく	hyaku	cien
+numbers	千	せん	sen	mil
+numbers	万	まん	man	diez mil
+numbers	三百	さんびゃく	sanbyaku	trescientos
+numbers	百円	ひゃくえん	hyakuen	cien yenes
+numbers	一人	ひとり	hitori	una persona, solo
+numbers	二人	ふたり	futari	dos personas
+numbers	一つ	ひとつ	hitotsu	uno (una cosa)
+numbers	三つ	みっつ	mittsu	tres (cosas)
+numbers	一月	いちがつ	ichigatsu	enero
+numbers	四月	しがつ	shigatsu	abril
+numbers	九月	くがつ	kugatsu	septiembre
+verbs	行く	いく	iku	ir
+verbs	来る	くる	kuru	venir
+verbs	帰る	かえる	kaeru	regresar a casa
+verbs	食べる	たべる	taberu	comer
+verbs	飲む	のむ	nomu	beber
+verbs	見る	みる	miru	ver, mirar
+verbs	聞く	きく	kiku	escuchar, preguntar
+verbs	話す	はなす	hanasu	hablar
+verbs	読む	よむ	yomu	leer
+verbs	書く	かく	kaku	escribir
+verbs	買う	かう	kau	comprar
+verbs	会う	あう	au	encontrarse con alguien
+verbs	休む	やすむ	yasumu	descansar
+verbs	入る	はいる	hairu	entrar
+verbs	出る	でる	deru	salir
+verbs	立つ	たつ	tatsu	ponerse de pie
+verbs	寝る	ねる	neru	dormir
+verbs	待つ	まつ	matsu	esperar
+positions	上	うえ	ue	arriba, encima
+positions	下	した	shita	abajo, debajo
+positions	中	なか	naka	dentro, en medio
+positions	外	そと	soto	afuera
+positions	前	まえ	mae	delante, antes
+positions	後ろ	うしろ	ushiro	detrás
+positions	右	みぎ	migi	derecha
+positions	左	ひだり	hidari	izquierda
+positions	隣	となり	tonari	al lado, vecino
+positions	横	よこ	yoko	al costado
+positions	近く	ちかく	chikaku	cerca
+positions	間	あいだ	aida	entre
+positions	北	きた	kita	norte
+positions	南	みなみ	minami	sur
+positions	東	ひがし	higashi	este
+positions	西	にし	nishi	oeste
+everyday	人	ひと・じん	hito / jin	persona
+everyday	日本	にほん	nihon	Japón
+everyday	日本人	にほんじん	nihonjin	japonés (persona)
+everyday	外国人	がいこくじん	gaikokujin	extranjero
+everyday	人間	にんげん	ningen	ser humano
+everyday	山	やま	yama	montaña
+everyday	川	かわ	kawa	río
+everyday	火山	かざん	kazan	volcán
+everyday	富士山	ふじさん	fujisan	monte Fuji
+everyday	本	ほん	hon	libro
+everyday	本当	ほんとう	hontou	verdad, de verdad
+everyday	何	なに・なん	nani / nan	¿qué?
+everyday	円	えん	en	yen, círculo
+everyday	時間	じかん	jikan	tiempo, horas
+everyday	午前	ごぜん	gozen	a.m., mañana
+everyday	午後	ごご	gogo	p.m., tarde
+everyday	力	ちから	chikara	fuerza
+everyday	力士	りきし	rikishi	luchador de sumo
+everyday	刀	かたな	katana	espada
+everyday	日本刀	にほんとう	nihontou	espada japonesa
+everyday	上着	うわぎ	uwagi	chaqueta
+everyday	下着	したぎ	shitagi	ropa interior
+everyday	靴下	くつした	kutsushita	calcetines
+everyday	上手	じょうず	jouzu	hábil, bueno para algo
+everyday	下手	へた	heta	torpe, malo para algo
+everyday	中国	ちゅうごく	chuugoku	China
+everyday	海外	かいがい	kaigai	el extranjero
+everyday	八百屋	やおや	yaoya	verdulería
+everyday	七夕	たなばた	tanabata	Festival de las Estrellas
+everyday	万歳	ばんざい	banzai	¡hurra!

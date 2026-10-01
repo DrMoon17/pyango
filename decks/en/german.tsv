@@ -1,0 +1,81 @@
+# name: German
+# order: 3
+# script: latin
+# reading = plural, pronunciation = guide for English speakers
+# license: CC BY-SA 4.0
+category	word	reading	pronunciation	meaning
+numbers	eins		eyens	one
+numbers	zwei		tsvy	two
+numbers	drei		dry	three
+numbers	vier		feer	four
+numbers	fünf		fuenf	five
+numbers	sechs		zeks	six
+numbers	sieben		ZEE-ben	seven
+numbers	acht		ahkht	eight
+numbers	neun		noyn	nine
+numbers	zehn		tsayn	ten
+numbers	elf		elf	eleven
+numbers	zwölf		tsvoelf	twelve
+numbers	zwanzig		TSVAN-tsikh	twenty
+numbers	hundert		HOON-dert	one hundred
+numbers	tausend		TOW-zent	one thousand
+verbs	sein		zine	to be
+verbs	haben		HAH-ben	to have
+verbs	gehen		GAY-en	to go (on foot)
+verbs	kommen		KOM-en	to come
+verbs	essen		ESS-en	to eat
+verbs	trinken		TRINK-en	to drink
+verbs	sprechen		SHPREKH-en	to speak
+verbs	lesen		LAY-zen	to read
+verbs	schreiben		SHRY-ben	to write
+verbs	schlafen		SHLAH-fen	to sleep
+verbs	lernen		LEHR-nen	to learn
+verbs	machen		MAKH-en	to do, to make
+verbs	sehen		ZAY-en	to see
+verbs	wohnen		VOH-nen	to live (reside)
+verbs	arbeiten		AR-by-ten	to work
+positions	auf		owf	on, on top of
+positions	unter		OON-ter	under
+positions	in		in	in, inside
+positions	vor		for	in front of
+positions	hinter		HIN-ter	behind
+positions	neben		NAY-ben	next to
+positions	zwischen		TSVISH-en	between
+positions	über		UE-ber	above, over
+positions	links		links	left
+positions	rechts		rekhts	right
+positions	geradeaus		geh-rah-deh-OWS	straight ahead
+positions	hier		heer	here
+positions	dort		dort	there
+everyday	Hallo		HAH-loh	hello
+everyday	Guten Morgen		GOO-ten MOR-gen	good morning
+everyday	Guten Tag		GOO-ten tahk	good day, hello
+everyday	Guten Abend		GOO-ten AH-bent	good evening
+everyday	Gute Nacht		GOO-teh nakht	good night
+everyday	Tschüss		chuess	bye
+everyday	Auf Wiedersehen		owf VEE-der-zay-en	goodbye (formal)
+everyday	Danke		DAHN-keh	thank you
+everyday	Bitte		BIT-teh	please, you're welcome
+everyday	Ja		yah	yes
+everyday	Nein		nine	no
+everyday	Entschuldigung		ent-SHOOL-dee-goong	excuse me, sorry
+everyday	die Mutter	die Mütter	MOO-ter	the mother
+everyday	der Vater	die Väter	FAH-ter	the father
+everyday	das Kind	die Kinder	kint	the child
+everyday	der Freund	die Freunde	froynt	the friend
+everyday	das Wasser		VAS-er	the water
+everyday	das Brot	die Brote	broht	the bread
+everyday	der Kaffee		KAF-ay	the coffee
+everyday	die Milch		milkh	the milk
+everyday	das Haus	die Häuser	house	the house
+everyday	die Katze	die Katzen	KAT-seh	the cat
+everyday	der Hund	die Hunde	hoont	the dog
+everyday	das Buch	die Bücher	bookh	the book
+everyday	die Schule	die Schulen	SHOO-leh	the school
+everyday	heute		HOY-teh	today
+everyday	morgen		MOR-gen	tomorrow
+everyday	rot		roht	red
+everyday	blau		blow	blue
+everyday	grün		gruen	green
+everyday	schwarz		shvarts	black
+everyday	weiß		vice	white
